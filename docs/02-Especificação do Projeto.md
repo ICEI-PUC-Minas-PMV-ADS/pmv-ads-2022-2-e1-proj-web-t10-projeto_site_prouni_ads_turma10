@@ -3,7 +3,7 @@
 Os problemas que iremos tratar com o presente projeto são de constatações pessoais de membros do grupo, que passaram pelas situações abordadas, e também em apurações feitas com pessoas que estão à procura de um meio de acesso ao ensino superior gratuito, são elas pessoas próximas ou conhecidas via rede social ou sites relacionados ao assunto do projeto. Os pontos específicos que serão levantados serão apresentados na forma de personas e histórias de usuários.
 
 ## Personas
-`Gustavo`
+`GUSTAVO`
 
 Idade: 17 anos.
 
@@ -22,7 +22,7 @@ Dificuldades:Renda para custear estudos e demais necessidades e Distância das f
 Expectativa:Conhecer as formas de acesso ao ensino superior de forma gratuita ou financiada e conseguir informações que ajudem em sua decisão.
 
 
-`Maria`
+`MARIA`
 
 Idade: 32 anos
 
@@ -49,12 +49,28 @@ Expectativa: Ingressar em uma faculdade. Conseguir informações mais detalhadas
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base nas informações coletadas com as personas do projeto, as seguintes histórias de usuários foram identificadas e expostas a seguir.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Estudante de escola|Informações sobre os programas      |Escolher qual a melhor                  |
+|pública.            |federais de acesso ao               |opção dentre os programas e             | 
+|                    | ensino superior gratuito.          |cursos oferecidos.                      |
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|                    |                                    |                                        |
+|                    |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
