@@ -53,7 +53,7 @@ Com base nas informações coletadas com as personas do projeto, as seguintes hi
 
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-| Estudante de escolapública.|Informações sobre os programas federais de acesso ao ensino superior gratuito.|Escolher qual a melhor opção dentre os programas e cursos oferecidos.              |
+| Estudante de escola pública.|Informações sobre os programas federais de acesso ao ensino superior gratuito.|Escolher qual a melhor opção dentre os programas e cursos oferecidos.              |
 |                    |                                    |       | 
 |                    |                                    |                    |
 |                    |                                    |                                        |
