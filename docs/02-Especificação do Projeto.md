@@ -17,11 +17,11 @@ As personas que permitiram um entendimento e motivação durante o processo ser�
 
 
 |---------------------------|------------------------------------|-----------------------------------|
-|`Motivações`                                   |
+|                                   `Motivações`                                                     |
 |---------------------------|------------------------------------|-----------------------------------|
-|Idade: 17 anos       |Renda para custear estudos e        |Conhecer as formas de acesso ao    |
-|Formação: Concluindo o ensino médior |demais necessidades.Distância       |ensino superior de forma gratuita  |
-|Escola pública: Sim         |das faculdades mais próximas.       |ou financiada.Conseguir informações|       
+|Idade: 17 anos             |Renda para custear estudos e        |Conhecer as formas de acesso ao    |
+|Formação: Concluindo o ensi|demais necessidades.Distância       |ensino superior de forma gratuita  |
+|Escola pública: Sim        |das faculdades mais próximas.       |ou financiada.Conseguir informações|       
 |                           |                                    |que ajudem em sua decisão.         |
 
 |---------------------------|------------------------------------|-----------------------------------|
