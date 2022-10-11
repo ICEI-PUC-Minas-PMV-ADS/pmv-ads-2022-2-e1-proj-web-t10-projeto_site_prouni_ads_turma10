@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Site de informações sobre programas de acesso ao ensino superior para estudantes de baixa renda
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`SEGUNDO SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de um site com foco exclusivo no acesso ao ensino superior por meio dos programas do governo federal ProUni, FIES, SISU e Enem, com o propósito de orientar corretamente os interessados. Apresentar os conteúdos de forma organizada, permitindo ao usuário do site filtrar as informações de cada programa, facilitando assim a assimilação. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Divino Marcio de Souza Junior
+* Leonardo Germano da Costa
+* Luiz Felipe Gomes Trindade
+* Renan Galvão Paulino
+* Roberto Junio Silva     
 
 ## Orientador
 
-* Nome completo do professor 1
+*  Josemar Alves Caetano
 
 ## Instruções de utilização
 
