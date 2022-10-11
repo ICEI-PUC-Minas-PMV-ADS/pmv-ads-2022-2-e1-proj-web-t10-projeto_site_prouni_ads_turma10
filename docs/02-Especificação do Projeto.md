@@ -15,11 +15,11 @@ Escola pública: Sim.
 
 Perfil: Gosta de tecnologia, games e afins. Deseja entrar no mercado de trabalho para poder ingressar em um curso superior de seu interesse, com preferência para cursos EAD, devido a flexibilidade de horários. 
 
-Motivações:Achar meios para conseguir fazer uma graduação.
+Motivações: Achar meios para conseguir fazer uma graduação.
 
-Dificuldades:Renda para custear estudos e demais necessidades e Distância das faculdades mais próximas.
+Dificuldades: Renda para custear estudos e demais necessidades e Distância das faculdades mais próximas.
 
-Expectativa:Conhecer as formas de acesso ao ensino superior de forma gratuita ou financiada e conseguir informações que ajudem em sua decisão.
+Expectativa: Conhecer as formas de acesso ao ensino superior de forma gratuita ou financiada e conseguir informações que ajudem em sua decisão.
 
 
 `MARIA`
