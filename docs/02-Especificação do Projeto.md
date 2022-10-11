@@ -56,14 +56,14 @@ Com base nas informações coletadas com as personas do projeto, as seguintes hi
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos do projeto e suas funcionalidades são de caráter funcional e não funcional. Sendo os requisitos funcionais os meios de interação com o usuário, que poderá enviar dúvidas, dar sugestões e compartilhar conhecimento. Já os não funcionais são relativos aos aspectos gerais da página e sua principal função, que é a de informar.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| O site deve ter a opção de filtros e pesquisa para que o usuário consiga achar mais facilmente o conteúdo desejado.| ALTA | 
+|RF-02| O site deve ter o serviço de envio de dúvidas e sugestões sobre os conteúdos.| MÉDIA |
 
 
 ### Requisitos não Funcionais
