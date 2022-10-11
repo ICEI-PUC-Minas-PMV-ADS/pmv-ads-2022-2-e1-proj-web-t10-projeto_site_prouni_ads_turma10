@@ -31,6 +31,8 @@ As personas que permitiram um entendimento e motivação durante o processo ser�
 |Achar meios para conseguir |demais necessidades.Distância       |ensino superior de forma gratuita  |
 |fazer uma graduação.       |das faculdades mais próximas.       |ou financiada.Conseguir informações|       
 |                           |                                    |que ajudem em sua decisão.         |
+|----------------------------------------------------------------------------------------------------|
+|                               `Gustavo`                                                            |
 
 
 
