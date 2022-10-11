@@ -72,43 +72,23 @@ Os requisitos do projeto e suas funcionalidades são de caráter funcional e nã
 |RF-08|	O site deve ter um sistema que, mediante informações fornecidas pelo usuário, indique quais as suas melhores opções e chances em relação ao programas em questão.	
 |RF-09|	O site deve permitir o compartilhamento em redes sociais.|	Baixa |
 
-
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|||
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-01 |	O site deve ser responsivo permitindo uma visualização adequada pelos smartphones.| Alta |
+|RNF-02	|O site deve ser compatível com os principais browsers do mercado.|	Alta |
+|RNF-03	|O site deve ter uma layout agradável e intuitivo.|	Média |
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+São restrições impostas e obrigatórias na elaboração do projeto as listadas na tabela abaixo:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01|	As tecnologias utilizadas serão apenas as relacionadas a Web Frontend.|
+|RE-02|	A data de entrega máxima será 11/12/2022, sendo a mesma data do final do semestre letivo.| 
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
