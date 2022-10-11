@@ -6,6 +6,7 @@ Os problemas que iremos tratar com o presente projeto são de constatações pes
 
 As personas que permitiram um entendimento e motivação durante o processo serão apresentadas na tabela a seguir.
 
+
 |----------------------------------------------------------------------------------------------------|
 |                               `Gustavo`                                                            |
 |------------------------------------|---------------------------------------------------------------|
@@ -13,6 +14,7 @@ As personas que permitiram um entendimento e motivação durante o processo ser�
 |Profissão: Estudante                |Deseja ingressar no mercado de trabalho para poder ingressar   |
 |Formação: Concluindo o ensino médio.|em um curso superior de seu interesse, com preferência para    | 
 |Escola pública: Sim.                |cursos EAD, devido a flexibilidade de horários.                | 
+
 
 |---------------------------|------------------------------------|-----------------------------------|
 |`Motivações`               |`Dificuldades`                      |`Expectativa`                      |
