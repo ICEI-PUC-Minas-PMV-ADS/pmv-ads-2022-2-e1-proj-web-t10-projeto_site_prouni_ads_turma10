@@ -55,22 +55,12 @@ Com base nas informações coletadas com as personas do projeto, as seguintes hi
 |--------------------|------------------------------------|----------------------------------------|
 |Estudante de escola pública.|Informações sobre os programas federais de acesso ao ensino superior gratuito.|Escolher qual a melhor opção dentre os programas e cursos oferecidos.              |
 |Estudante de escola particular.|Conhecer o SISU de forma detalhada e as Universidades públicas que aderem a ele.|Para avaliar minhas chances para o curso que desejo, fazendo uma comparação com os vestibulares tradicionais.| 
-|                    |                                    |                    
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|--------------------|------------------------------------|----------------------------------------|
+|Professor.|Conhecer com detalhes os programas SISU e ProUni bem como o ENEM.|Orientar os alunos do ensino médio sobre tais programas e direcionar os estudos para que eles consigam bom desempenho no ENEM.|                   
+|Pai de aluno.|Entender os programas e o grau de dificuldade de cada um.|Ajudar o filho a conseguir o acesso a uma faculdade de forma gratuita.|
+|Estudante de escola pública, elegível as cotas PPI.|Analisar quais são as cotas, onde se aplicam e questões relativas notas de corte.|Para fazer uma escolha mais vantajosa, e poder ingressar em uma Universidade mais conceituada.|                   
+|Egresso da escola pública formado a 10 anos.|Entender melhor os programas, e se pessoas em sua condição podem participar.|Ingressar em uma graduação para poder melhorar a condição de vida.|
+|Cidadão que deseja concluir o ensino médio e ingressar em uma faculdade.|Conhecer o EJA, ENEM.|Concluir o ensino médio e posteriormente uma graduação. |               
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
