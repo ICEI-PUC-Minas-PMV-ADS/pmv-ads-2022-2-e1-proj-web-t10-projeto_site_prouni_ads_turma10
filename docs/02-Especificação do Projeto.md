@@ -7,7 +7,7 @@ Os problemas que iremos tratar com o presente projeto são de constatações pes
 As personas que permitiram um entendimento e motivação durante o processo serão apresentadas na tabela a seguir.
 
 |----------------------------------------------------------------------------------------------------|
-|                               Gustavo                                                              |
+|                               `Gustavo`                                                            |
 |------------------------------------|---------------------------------------------------------------|
 |Idade: 17 anos                      |Perfil: Gosta de tecnologia, games e afins.                    |
 |Profissão: Estudante                |Deseja ingressar no mercado de trabalho para poder ingressar   |
