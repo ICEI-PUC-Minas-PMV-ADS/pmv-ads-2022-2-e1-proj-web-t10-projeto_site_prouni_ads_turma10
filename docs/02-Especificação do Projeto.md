@@ -53,9 +53,9 @@ Com base nas informações coletadas com as personas do projeto, as seguintes hi
 
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-| Estudante de escola pública.|Informações sobre os programas federais de acesso ao ensino superior gratuito.|Escolher qual a melhor opção dentre os programas e cursos oferecidos.              |
-|                    |                                    |       | 
-|                    |                                    |                    |
+|Estudante de escola pública.|Informações sobre os programas federais de acesso ao ensino superior gratuito.|Escolher qual a melhor opção dentre os programas e cursos oferecidos.              |
+|Estudante de escola particular.|Conhecer o SISU de forma detalhada e as Universidades públicas que aderem a ele.|Para avaliar minhas chances para o curso que desejo, fazendo uma comparação com os vestibulares tradicionais.| 
+|                    |                                    |                    
 |                    |                                    |                                        |
 |                    |                                    |                                        |
 |--------------------|------------------------------------|----------------------------------------|
