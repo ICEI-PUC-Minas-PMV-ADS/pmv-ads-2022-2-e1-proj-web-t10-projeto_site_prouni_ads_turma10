@@ -4,15 +4,19 @@ Os problemas que iremos tratar com o presente projeto são de constatações pes
 
 ## Personas
 
-As personas que permitiram um entendimento e motivação durante o processo serão apresentadas na tabela a seguir.
+Pedro Paulo tem 26 anos é arquiteto recém-formado e proprietário. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar na Europa que aceitem alunos estrangeiros.
 
-                                                                          
-|------------------------------------|-----------------------------------------------|
-|Idade: 17 anos.                     |Perfil: Gosta de tecnologia, games e afins.    |
-|Profissão: Estudante.               |Deseja ingressar no mercado de trabalho        |
-|Formação: Concluindo o ensino médio.|para poder ingressar em um curso superior      |
-|Escola pública: Sim.                |de seu interesse, com preferência para         |
-|                                    |cursos EAD, devido a flexibilidade de horários.|
+Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+
+Links Úteis :
+
+Conteúdo Rock
+Hotmart
+O que é persona?
+Persona x Público-alvo
+Mapa de Empatia
+Mapa de Perseguidores
+Lembre-se que você deve ser enumerar e descrever precisamente e personalizado todos os clientes ideais que sua solução almeja.
 
 
 ## Histórias de Usuários
