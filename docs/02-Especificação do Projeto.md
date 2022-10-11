@@ -14,13 +14,14 @@ As personas que permitiram um entendimento e motivação durante o processo ser�
 |Formação: Concluindo o ensino médio.|em um curso superior de seu interesse, com preferência para    | 
 |Escola pública: Sim.                |cursos EAD, devido a flexibilidade de horários.                | 
 
-|------------------------------------|---------------------------|-----------------------------------|
+|---------------------------|------------------------------------|-----------------------------------|
 |`Motivações`               |`Dificuldades`                      |`Expectativa`                      |
 |---------------------------|------------------------------------|-----------------------------------|
-|Fazer uma graduação. Achar meios para conseguir fazer uma graduação.       |Renda para custear estudos e        |Conhecer as formas de acesso ao    |
-|                           |demais necessidades.Distância       |ensino superior de forma gratuita  |
-|                                  |das faculdades mais próximas.       |ou financiada.Conseguir informações|       
+|Fazer uma graduação.       |Renda para custear estudos e        |Conhecer as formas de acesso ao    |
+|Achar meios para conseguir |demais necessidades.Distância       |ensino superior de forma gratuita  |
+|fazer uma graduação.       |das faculdades mais próximas.       |ou financiada.Conseguir informações|       
 |                           |                                    |que ajudem em sua decisão.         |
+
 
 
 ## Histórias de Usuários
