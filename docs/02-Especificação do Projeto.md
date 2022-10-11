@@ -11,7 +11,8 @@ As personas que permitiram um entendimento e motivação durante o processo ser�
 |Idade: 17 anos                      |Perfil: Gosta de tecnologia, games e afins.                    |
 |Profissão: Estudante                |Deseja ingressar no mercado de trabalho para poder ingressar   |
 |Formação: Concluindo o ensino médio.|em um curso superior de seu interesse, com preferência para    | 
-|Escola pública: Sim.                |cursos EAD, devido a flexibilidade de horários.                |
+|Escola pública: Sim.                |cursos EAD, devido a flexibilidade de horários.                | 
+
 |------------------------------------|---------------------------|-----------------------------------|
 |`Motivações`               |`Dificuldades`                      |`Expectativa`                      |
 |---------------------------|------------------------------------|-----------------------------------|
