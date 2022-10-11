@@ -62,8 +62,8 @@ Os requisitos do projeto e suas funcionalidades são de caráter funcional e nã
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01 | O site deve ter a opção de filtros e pesquisa para que o usuário consiga achar mais facilmente o conteúdo desejado.| ALTA | 
-|RF-02 | O site deve ter o serviço de envio de dúvidas e sugestões sobre os conteúdos.| MÉDIA |
+|RF-001| O site deve ter a opção de filtros e pesquisa para que o usuário consiga achar mais facilmente o conteúdo desejado.| ALTA | 
+|RF-002| O site deve ter o serviço de envio de dúvidas e sugestões sobre os conteúdos.| MÉDIA |
 
 
 ### Requisitos não Funcionais
