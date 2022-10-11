@@ -3,23 +3,10 @@
 Os problemas que iremos tratar com o presente projeto são de constatações pessoais de membros do grupo, que passaram pelas situações abordadas, e também em apurações feitas com pessoas que estão à procura de um meio de acesso ao ensino superior gratuito, são elas pessoas próximas ou conhecidas via rede social ou sites relacionados ao assunto do projeto. Os pontos específicos que serão levantados serão apresentados na forma de personas e histórias de usuários.
 
 ## Personas
-`GUSTAVO`
-
-Idade: 17 anos.
-
-Profissão: Estudante.
-
-Formação: Concluindo o ensino médio.
-
-Escola pública: Sim.
-
-Perfil: Gosta de tecnologia, games e afins. Deseja entrar no mercado de trabalho para poder ingressar em um curso superior de seu interesse, com preferência para cursos EAD, devido a flexibilidade de horários. 
-
-Motivações: Achar meios para conseguir fazer uma graduação.
-
-Dificuldades: Renda para custear estudos e demais necessidades e Distância das faculdades mais próximas.
-
-Expectativa: Conhecer as formas de acesso ao ensino superior de forma gratuita ou financiada e conseguir informações que ajudem em sua decisão.
+|     Gustavo                                                                                                                    |                                                                                                                             |                                                                                                                                                                                                                                    |   |                                                                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Idade: 17 anos.     Profissão:   Estudante.     Formação:   Concluindo o ensino médio.     Escola pública:   Sim.          |                                                                                                                             |     Perfil: Gosta de   tecnologia, games e afins. Deseja ingressar no mercado de trabalho para poder   ingressar em um curso superior de seu interesse, com preferência para cursos   EAD, devido a flexibilidade de horários.     |   |                                                                                                                                                                    |
+|     Motivações:      Fazer uma   graduação.     Achar meios para   conseguir fazer uma graduação.                              |     Dificuldades:      Renda para   custear estudos e demais necessidades.     Distância das   faculdades mais próximas.    |                                                                                                                                                                                                                                    |   |     Expectativa:     Conhecer as   formas de acesso ao ensino superior de forma gratuita ou financiada.      Conseguir informações   que ajudem em sua decisão.    |
 
 
 `MARIA`
