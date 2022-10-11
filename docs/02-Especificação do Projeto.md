@@ -40,13 +40,6 @@ Dificuldades: Informações claras a respeito dos programas federais de acesso a
 
 Expectativa: Ingressar em uma faculdade. Conseguir informações mais detalhadas e concisas sobre os programas. 
 
-
-
-
-
-
-
-
 ## Histórias de Usuários
 
 Com base nas informações coletadas com as personas do projeto, as seguintes histórias de usuários foram identificadas e expostas a seguir.
@@ -59,17 +52,7 @@ Com base nas informações coletadas com as personas do projeto, as seguintes hi
 |Pai de aluno.|Entender os programas e o grau de dificuldade de cada um.|Ajudar o filho a conseguir o acesso a uma faculdade de forma gratuita.|
 |Estudante de escola pública, elegível as cotas PPI.|Analisar quais são as cotas, onde se aplicam e questões relativas notas de corte.|Para fazer uma escolha mais vantajosa, e poder ingressar em uma Universidade mais conceituada.|                   
 |Egresso da escola pública formado a 10 anos.|Entender melhor os programas, e se pessoas em sua condição podem participar.|Ingressar em uma graduação para poder melhorar a condição de vida.|
-|Cidadão que deseja concluir o ensino médio e ingressar em uma faculdade.|Conhecer o EJA, ENEM.|Concluir o ensino médio e posteriormente uma graduação. |               
-
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Cidadão que deseja concluir o ensino médio e ingressar em uma faculdade.|Conhecer o EJA, ENEM.|Concluir o ensino médio e posteriormente uma graduação. |           
 
 ## Requisitos
 
