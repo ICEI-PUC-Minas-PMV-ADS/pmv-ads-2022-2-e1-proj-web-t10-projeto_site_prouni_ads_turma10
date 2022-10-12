@@ -5,13 +5,14 @@ Os problemas que iremos tratar com o presente projeto são de constatações pes
 ## Personas
 `GUSTAVO`
 
-|               Gustavo                                |
-|:--------------------------------------:|
-| Idade: 17 anos.                      | Perfil: Gosta de tecnologia, games e afins. Deseja ingressar no mercado de trabalho para poder ingressar em um curso superior de seu interesse, com preferência para cursos EAD, devido a flexibilidade de horários.|
-| Profissão: Estudante.                |  
-| Formação: Concluindo o ensino médio. |    
-| Escola pública: Sim.                 |
-|--------------------------------------|
+|               Gustavo                                           | 
+|:---------------------------------------------------------------:|
+| Idade: 17 anos.|Perfil: Gosta de tecnologia, games e afins.Deseja| 
+| Profissão: Estudante.|ingressar no mercado de trabalho para poder|
+| Profissão: Estudante.|ingressar em um curso superior de seu |  
+| Formação: Concluindo o ensino médio.|interesse, com preferência para|  
+| Escola pública: Sim.|cursos EAD, devido a flexibilidade de horários.| 
+
 
 
 
@@ -55,7 +56,7 @@ Expectativa: Ingressar em uma faculdade. Conseguir informações mais detalhadas
 Com base nas informações coletadas com as personas do projeto, as seguintes histórias de usuários foram identificadas e expostas a seguir.
 
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
-|:--------------------|:------------------------------------:|:----------------------------------------|
+|:--------------------|:------------------------------------|:----------------------------------------|
 |Estudante de escola pública.|Informações sobre os programas federais de acesso ao ensino superior gratuito.|Escolher qual a melhor opção dentre os programas e cursos oferecidos.              |
 |Estudante de escola particular.|Conhecer o SISU de forma detalhada e as Universidades públicas que aderem a ele.|Para avaliar minhas chances para o curso que desejo, fazendo uma comparação com os vestibulares tradicionais.| 
 |Professor.|Conhecer com detalhes os programas SISU e ProUni bem como o ENEM.|Orientar os alunos do ensino médio sobre tais programas e direcionar os estudos para que eles consigam bom desempenho no ENEM.|                   
@@ -71,7 +72,7 @@ Os requisitos do projeto e suas funcionalidades são de caráter funcional e nã
 ### Requisitos Funcionais
 
 |ID   | Descrição do Requisito  | Prioridade |
-|-----|-----------------------------------------|----|
+|:-----|:-----------------------------------------|:----|
 |RF-01| O site deve ter a opção de filtros e pesquisa para que o usuário consiga achar mais facilmente o conteúdo desejado.| Alta | 
 |RF-02| O site deve ter o serviço de envio de dúvidas e sugestões sobre os conteúdos.| Média |
 |RF-03| O site deve conter links que direcionem o usuário para a fonte da informação quando for necessário.|	Baixa |
