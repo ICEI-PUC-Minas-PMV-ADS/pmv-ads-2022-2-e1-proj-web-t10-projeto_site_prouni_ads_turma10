@@ -6,10 +6,10 @@ Os problemas que iremos tratar com o presente projeto são de constatações pes
 
 |`GUSTAVO`                                                                                            |
 |----------------------------------------------------------------------------------------------------|
-| Idade: 17 anos.|Perfil:  Gosta de tecnologia, games e afins. Deseja ingressar no mercado de trabalho|
-| Profissão: Estudante.|para poder ingressar em um curso superior de seu interesse,|
-| Formação: Concluindo o ensino médio.|com preferência para cursos EAD,|
-| Escola pública: Sim.|devido a flexibilidade de horários.|
+| Idade: 17 anos.| Perfil:  Gosta de tecnologia, games e afins. Deseja ingressar no mercado de trabalho|
+| Profissão: Estudante.| para poder ingressar em um curso superior de seu interesse,|
+| Formação: Concluindo o ensino médio.| com preferência para cursos EAD,|
+| Escola pública: Sim.| devido a flexibilidade de horários.|
 
 |                                                                    Gustavo                                                                                  |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|
