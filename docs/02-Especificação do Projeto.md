@@ -5,9 +5,9 @@ Os problemas que iremos tratar com o presente projeto são de constatações pes
 ## Personas
 `GUSTAVO`
 
-|               Gustavo                                           | 
-|:---------------------------------------------------------------|
-| Idade: 17 anos.|Perfil: Perfil: Gosta de tecnologia, games e afins. Deseja ingressar no mercado de trabalho para poder ingressar em um curso superior de seu interesse, com preferência para cursos EAD, devido a flexibilidade de horários. 
+|                                                                    Gustavo                                                                                  |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Idade: 17 anos.| Perfil:  Gosta de tecnologia, games e afins. Deseja ingressar no mercado de trabalho para poder ingressar em um curso superior de seu interesse, com preferência para cursos EAD, devido a flexibilidade de horários. 
 | Profissão: Estudante.|
 | Formação: Concluindo o ensino médio. | 
 | Escola pública: Sim.|
