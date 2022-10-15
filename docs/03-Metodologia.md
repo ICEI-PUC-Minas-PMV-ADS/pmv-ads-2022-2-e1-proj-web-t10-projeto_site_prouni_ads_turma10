@@ -75,5 +75,9 @@ O quadro trello do grupo desenvolvido na ferramenta de gerenciamento de projetos
 
 Tela do Trello utilizada pelo grupo
 
+Ferramentas
+As ferramentas utilizadas no projeto são:
 
+Ferramentas de comunicação - Whatsapp e Teams
+Gerador de tabelas - Markdown Tables Generator
 
