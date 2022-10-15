@@ -1,9 +1,7 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla a explicação detalhada e exata de toda ação desenvolvida no trabalho, dividida em vários métodos até chegar num determinado objetivo. Será apresentado o tipo de pesquisa, dos instrumentos, do tempo previsto, da equipe de pesquisadores e da divisão e relação dos ambientes de trabalho, enfim, de tudo aquilo que se utilizou no trabalho.
 
 ## Controle de Versão
 
@@ -35,43 +33,49 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+
+| Ambiente                          | Plataforma | Link de Acesso                                                                                               |
+|-----------------------------------|------------|--------------------------------------------------------------------------------------------------------------|
+| Repositório de código fonte       | GitHub     | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10.git |
+| Documentos do projeto             | GitHub     | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10.git |
+| Projeto de Interface e Wireframes |            |                                                                                                              |
+| Gerenciamento do Projeto          | Trello     | https://trello.com/b/cywao3s1/site-prouni-template                                                           |
+
+
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+Garantir uma entrega coerente em relação aos objetivos definidos e com uma execução bem-feita é o principal desafio de qualquer projeto. Pensando em maneiras de facilitar esse processo, a equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+●	Scrum Master: Leonardo Germano da Costa
 
-### Processo
+●	Product Owner: Renan Galvão Paulino
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+●	Equipe de Desenvolvimento: Renan Galvão Paulino
 
-### Ferramentas
+●	Equipe de Design: Leonardo Germano da Costa
+  
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
 
-As ferramentas empregadas no projeto são:
+●	Legenda de Sprints: Esta lista representa as etapas referente a cada sprint do Backlog. 
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+●	Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. 
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+●	To Do: Esta lista representa o Sprint Backlog. 
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+●	Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
+●	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
+O quadro trello do grupo desenvolvido na ferramenta de gerenciamento de projetos é apresentado, no estado atual, na imagem abaixo. 
+
+![image](https://user-images.githubusercontent.com/115284477/196008085-3ebdd71f-e2ae-4153-97ec-64dd1c0266ae.png)
+
+Tela do Trello utilizada pelo grupo
+
+
+
