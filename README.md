@@ -10,11 +10,8 @@ Criação de um site com foco exclusivo no acesso ao ensino superior por meio do
 
 ## Integrantes
 
-* Divino Marcio de Souza Junior
 * Leonardo Germano da Costa
-* Luiz Felipe Gomes Trindade
-* Renan Galvão Paulino
-* Roberto Junio Silva     
+* Renan Galvão Paulino    
 
 ## Orientador
 
