@@ -67,7 +67,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 ●	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro trello do grupo desenvolvido na ferramenta de gerenciamento de projetos é apresentado, no estado atual, na imagem abaixo. 
+O quadro trello do grupo disponível em https://trello.com/b/cywao3s1/site-prouni-template é apresentado, no estado atual, na imagem abaixo. 
 
 ![image](https://user-images.githubusercontent.com/115284477/196008085-3ebdd71f-e2ae-4153-97ec-64dd1c0266ae.png)
 
