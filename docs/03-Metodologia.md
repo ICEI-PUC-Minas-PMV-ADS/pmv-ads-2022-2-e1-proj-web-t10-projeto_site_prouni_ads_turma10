@@ -5,9 +5,7 @@ A metodologia contempla a explicação detalhada e exata de toda ação desenvol
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Para gestão do nosso codigo fonte utilizaremos o git hub para o versionamento
 
 O projeto segue a seguinte convenção para o nome de branches:
 
