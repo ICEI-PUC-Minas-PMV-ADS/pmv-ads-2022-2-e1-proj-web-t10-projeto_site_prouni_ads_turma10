@@ -3,7 +3,7 @@
 Os problemas que iremos tratar com o presente projeto são de constatações pessoais de membros do grupo, que passaram pelas situações abordadas, e também em apurações feitas com pessoas que estão à procura de um meio de acesso ao ensino superior gratuito, são elas pessoas próximas ou conhecidas via rede social ou sites relacionados ao assunto do projeto. Os pontos específicos que serão levantados serão apresentados na forma de personas e histórias de usuários.
 
 ## Personas
-`GUSTAVO`
+# `GUSTAVO`
 
 Idade: 17 anos.
 
@@ -22,7 +22,7 @@ Dificuldades: Renda para custear estudos e demais necessidades e Distância das 
 Expectativa: Conhecer as formas de acesso ao ensino superior de forma gratuita ou financiada e conseguir informações que ajudem em sua decisão.
 
 
-`MARIA`
+# `MARIA`
 
 Idade: 32 anos
 
