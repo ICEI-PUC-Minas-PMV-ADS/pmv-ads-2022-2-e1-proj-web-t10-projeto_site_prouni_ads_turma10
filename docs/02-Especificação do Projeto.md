@@ -3,42 +3,19 @@
 Os problemas que iremos tratar com o presente projeto são de constatações pessoais de membros do grupo, que passaram pelas situações abordadas, e também em apurações feitas com pessoas que estão à procura de um meio de acesso ao ensino superior gratuito, são elas pessoas próximas ou conhecidas via rede social ou sites relacionados ao assunto do projeto. Os pontos específicos que serão levantados serão apresentados na forma de personas e histórias de usuários.
 
 ## Personas
-# `GUSTAVO`
 
-Idade: 17 anos.
+As personas que permitiram um entendimento e motivação durante o processo serão apresentadas na tabela a seguir.
 
-Profissão: Estudante.
-
-Formação: Concluindo o ensino médio.
-
-Escola pública: Sim.
-
-Perfil: Gosta de tecnologia, games e afins. Deseja entrar no mercado de trabalho para poder ingressar em um curso superior de seu interesse, com preferência para cursos EAD, devido a flexibilidade de horários. 
-
-Motivações: Achar meios para conseguir fazer uma graduação.
-
-Dificuldades: Renda para custear estudos e demais necessidades e Distância das faculdades mais próximas.
-
-Expectativa: Conhecer as formas de acesso ao ensino superior de forma gratuita ou financiada e conseguir informações que ajudem em sua decisão.
-
-
-# `MARIA`
-
-Idade: 32 anos
-
-Profissão: Empregada doméstica
-
-Formação: Concluiu o ensino médio pelo EJA
-
-Escola pública: Sim
-
-Perfil: Mãe de dois filhos, casada e trabalha para compor a renda familiar. Terminou o ensino médio tardiamente, e só então soube que é possível fazer uma graduação de forma gratuita. Sonha em trabalhar na área da saúde.
-
-Motivações: Fazer uma graduação,dar um futuro melhor para os filhos, trabalhar em algo que gosta.
-
-Dificuldades: Informações claras a respeito dos programas federais de acesso ao ensino superior gratuito, conciliar trabalho, estudo e família.
-
-Expectativa: Ingressar em uma faculdade. Conseguir informações mais detalhadas e concisas sobre os programas. 
+| Personas       | Gustavo                                                                                                                                                                                                     | Maria                                                                                                                                                                                                                |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Idade          | 17                                                                                                                                                                                                          | 32                                                                                                                                                                                                                   |
+| Profissão      | Estudante                                                                                                                                                                                                   | Empregada doméstica                                                                                                                                                                                                  |
+| Formação       | Concluindo o ensino médio                                                                                                                                                                                   | Concluiu o ensino médio pelo EJA                                                                                                                                                                                     |
+| Escola pública | Sim                                                                                                                                                                                                         | Sim                                                                                                                                                                                                                  |
+| Perfil         | Gosta de tecnologia, games e afins. Deseja ingressar no mercado de trabalho para poder ingressar em um curso superior de seu interesse, com preferência para cursos EAD, devido a flexibilidade de horários | Mãe de dois filhos, casada e trabalha para compor a renda familiar. Terminou o ensino médio tardiamente, e só então soube que é possível fazer uma graduação de forma gratuita. Sonha em trabalhar na área da saúde. |
+| Motivações     | Achar meios para conseguir fazer uma graduação                                                                                                                                                              | Fazer uma graduação, dar um futuro melhor para os filhos, trabalhar em algo que gosta.                                                                                                                               |
+| Dificuldades   | Renda para custear estudos e demais necessidades, distância das faculdades mais próximas                                                                                                                    | Informações claras a respeito dos programas federais de acesso ao ensino superior gratuito. Conciliar trabalho, estudo e família                                                                                     |
+| Expectativa    | Conhecer as formas de acesso ao ensino superior de forma gratuita ou financiada, conseguir informações que ajudem em sua decisão                                                                            | Ingressar em uma faculdade, conseguir informações mais detalhadas e concisas sobre os programas                                                                                                                      |
 
 ## Histórias de Usuários
 
