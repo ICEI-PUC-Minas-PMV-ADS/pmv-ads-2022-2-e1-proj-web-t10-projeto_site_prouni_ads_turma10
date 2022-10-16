@@ -29,7 +29,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-----------------------------------|------------|--------------------------------------------------------------------------------------------------------------|
 | Repositório de código fonte       | GitHub     | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10.git |
 | Documentos do projeto             | GitHub     | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10.git |
-| Projeto de Interface e Wireframes |            |                                                                                                              |
+| Projeto de Interface e Wireframes | LucidChart | https://lucid.app/lucidchart/fa367202-50c4-4727-93e4-8da13ce2b24a/edit?viewport_loc=-473%2C158%2C2004%2C820%2C0_0&invitationId=inv_68423b93-bdac-432f-89f4-cd8fd8a40dfc                                                                                                             |
 | Gerenciamento do Projeto          | Trello     | https://trello.com/b/cywao3s1/site-prouni-template                                                           |
 
 
