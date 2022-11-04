@@ -1,5 +1,7 @@
 ## `Site de informações sobre programas de acesso ao ensino superior para estudantes de baixa renda`
 
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Logo/LOGO.png)
+
 # `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
 ## `Desenvolvimento de Aplicação Web Front-End`
