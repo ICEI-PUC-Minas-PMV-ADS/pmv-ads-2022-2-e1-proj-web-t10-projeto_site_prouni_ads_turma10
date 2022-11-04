@@ -9,27 +9,25 @@ Fluxos são feitos de várias pequenas interações. Cada tela oferece algumas p
 
 # Pagina inicial
 
-![Exemplo WIREFRAME ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Resumo%20p%C3%A1ginas_pages-to-jpg-0001.jpg)
+![Pagina Incial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Projeto%20de%20Interface/PAGINA%20INICIAL.jpg)
 
 # Pagina ENEM
 
-![Exemplo WIREFRAME 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Resumo%20p%C3%A1ginas_pages-to-jpg-0002.jpg)
+![Pagina Inicial Enem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Projeto%20de%20Interface/PAGINA%20INICIAL%20ENEM.jpg)
 
 ## Wireframes
 
 De acordo com o fluxo de usuário apresentado, as telas do sistema são representadas nas imagens a seguir, seguindo um padrão:
 
-![Exemplo Estrutura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/ESTRUTURA%20(1).jpeg)
-
+![Estrutura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Projeto%20de%20Interface/ESTRUTURA.jpeg)
 # Tela 1 - Página Inicial
 
-![Exemplo Pag Inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Pagina%20Inicial.jpeg)
+![Tela 1 - Pag Inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Projeto%20de%20Interface/TELA%201.jpeg)
 
 # Tela 2 - ENEM
 
-![Exemplo ENEM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/ENEM.jpeg)
+![Tela 2 - ENEM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Projeto%20de%20Interface/ENEM.jpeg)
 
 # Tela 3 - PROUNI, SISU E FIES
  
-![Exemplo PROUNI, SISU E FIES](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/PROUNI%2C%20SISU%20E%20FIES.jpeg)
-
+![Tela 3 - PROUNI, SISU E FIES](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Projeto%20de%20Interface/PROUNI%2C%20SISU%20E%20FIES.jpeg)
