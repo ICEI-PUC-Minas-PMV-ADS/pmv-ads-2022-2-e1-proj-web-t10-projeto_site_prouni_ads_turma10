@@ -1,12 +1,106 @@
-# Template padrão do site
+# Template do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+Podemos definir o template do site como páginas layouts pré-configurados que agilizam o processo de desenvolvimento. O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme e apresentado na figura abaixo.
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Projeto%20de%20Interface/ESTRUTURA.jpeg)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+                                                            Template padrão do site 
+                                                            
+O template é composto pelos seguintes layouts:
+
+●	Cabeçalho
+
+●	Coluna	
+
+●	Conteúdo Principal
+
+A responsividade segue o padrão do Bootstrap
+
+# Página Inicial
+
+Compreende uma apresentação do site, objetivos, resumo e o público alvo.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/PAGINA%20INICIAL.jpg)
+
+# Enem
+
+Compreende uma apresentação sobre o Exame Nacional do Ensino Médio (ENEM), apresentando os seguintes assuntos:
+
+•	Sobre o programa
+
+•	Como se inscrever
+
+•	Datas
+
+•	Notas de corte
+
+•	Dúvidas mais frequentes
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/ENEM.jpg)
+
+# SISU, ProUni e FIES
+
+O SiSU, o ProUni e o Fies são programas que visam a possibilitar o ingresso de estudantes no ensino superior. Em ambas as páginas serão apresentados os seguintes assuntos:
+
+•	Sobre o programa
+
+•	Como se inscrever
+
+•	Datas
+
+•	Notas de corte
+
+•	Dúvidas mais frequentes
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/SISU%20PROUNI%20FIES.jpg)
+
+# EJA
+
+Pagina que compreende uma apresentação sobre o EJA - Educação de Jovens e Adultos
+apresentando os seguintes assuntos:
+
+•	Como se inscrever
+
+•	Datas
+
+•	Dúvidas mais frequentes
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/EJA%201.jpg)
+
+# VESTIBULARES
+
+Esta pagina será destinada à informação referente aos vestibulares, apresentando os seguintes assuntos:
+
+•	Melhores universidades
+
+•	Mais concorridas
+
+•	Formas de ingresso
+
+•	Nota do Enem
+
+•	Formato do vestibular
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/VESTIBULARES.1.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
