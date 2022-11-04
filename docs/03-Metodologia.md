@@ -61,7 +61,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro trello do grupo disponível em https://trello.com/b/cywao3s1/site-prouni-template é apresentado, no estado atual, na imagem abaixo. 
 
-![image](https://user-images.githubusercontent.com/115284477/196008085-3ebdd71f-e2ae-4153-97ec-64dd1c0266ae.png)
+![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Logo/Trello.png)
 
 Tela do Trello utilizada pelo grupo
 
