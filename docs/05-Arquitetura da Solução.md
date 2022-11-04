@@ -6,7 +6,7 @@ São apresentados nesta seção os detalhes técnicos da solução e os componen
 
 A figura abaixo representa os componentes que fazem parte da solução.
 
-![Logo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/arquitetura.png)
+![Arq da Solucao](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Arquitetura%20da%20Solucao/ARQUITETURA%20DA%20SOLUCAO.png)
 
 Figura 1 – Arquitetura da solução
 
