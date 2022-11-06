@@ -44,6 +44,7 @@ O site permite que o usuário se cadastre para ter acesso a todas as funcionalid
 ### Artefatos da funcionalidade
 
 •	index.html
+
 •	estilo.css
 
 ### Instruções de acesso
