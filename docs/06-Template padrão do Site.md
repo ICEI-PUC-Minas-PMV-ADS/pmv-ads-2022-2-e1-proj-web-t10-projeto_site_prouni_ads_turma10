@@ -46,6 +46,20 @@ Esta página será destinada à informação sobre os vestibulares e seus assunt
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/VESTIBULARES.1.jpg)
 
+## Cadastro 
+
+Esta página permite que o usuário se cadastre para ter acesso a todas as funcionalidades do site, como comentários e recebimento de novidades via e-mail. 
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/Cadastro.png)
+
+## Login
+
+Página desitanada ao login do usuário.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/Login.png)
+
+
+
 
 
 
