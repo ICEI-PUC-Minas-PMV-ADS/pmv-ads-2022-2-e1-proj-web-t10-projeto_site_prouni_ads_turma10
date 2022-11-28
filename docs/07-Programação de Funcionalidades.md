@@ -166,23 +166,12 @@ Artefatos da funcionalidade
 
 ##  Melhores opções e chances (RF-08) 
 
-![]()
+INSUCESSO
 
-###  Requisitos atendidos  
+###  Requisitos não atendidos  
 
 | RF-08 	|O site deve ter um sistema que, mediante informações fornecidas pelo usuário, indique quais as suas melhores opções e chances em relação ao programas em questão. 	|
 |---	|:---	|
-
-Artefatos da funcionalidade 
-
-• index.html 
-
-• estilo.css 
-
-Instruções de acesso 
-
-1. 
-2. 
 
 ##  Compartilhamento em redes sociais (RF-09)
 
