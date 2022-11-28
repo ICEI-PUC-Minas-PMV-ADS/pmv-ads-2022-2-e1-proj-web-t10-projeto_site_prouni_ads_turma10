@@ -52,6 +52,13 @@
 | Passos                   | O e-mail está localizado no rodapé da página.                                    |
 | Critérios de Êxito       | E-mail, celular ou telefone de contato do mantenedor sendo apresentado na página |
 
+| Caso de Teste            | CT-07 - Melhores opções e chances                                                                                                                                         |
+| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Requisitos Associados    | RF-08 - O site deve ter um sistema que, mediante informações fornecidas pelo usuário, indique quais as suas melhores opções e chances em relação ao programas em questão. |
+| Objetivo do Teste        | Verificar se o site possui o sistema para melhores opções e chances                                                                                                       |
+| Passos                   | Não foi possível aplicar a funcionalidade                                                                                                                                 |
+| Critérios de Êxito       | Não foi possível aplicar a funcionalidade                                                                                                                                 |
+
 | Caso de Teste            | CT-08 - Compartilhamento em redes sociais                                                                                                                                                             |
 | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Requisitos Associados    | RF-09 - O site deve permitir o compartilhamento em redes sociais.                                                                                                                                     |
