@@ -1,12 +1,41 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+## CT-01 - Filtros e pesquisa
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Filtro.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Manuscrita.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/manuscrita%202.png)
 
-## Avaliação
+## CT-02 - Dúvidas e sugestões 
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Duvidas%20ou%20sugestoes.png)
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+## CT-03 - Fonte da informação
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Fonte%20da%20Informacao.png)
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Fonte%20da%20Informacao%202.png)
+
+## CT-04 - Comentários
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Comentar.png)
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Visualizar%20Comentarios.png)
+
+
+## CT-05 - Cadastro de Usuário
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Template%20do%20Site/Cadastro.png)
+
+## CT-06 - Contato do mantenedor
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Contato%20do%20Mantenedor.png)
+
+## CT-08 - Compartilhamento em redes sociais
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Redes%20Sociais.png) 
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Redes%20Sociais%202.png) 
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_site_prouni_ads_turma10/blob/main/Funcionalidades/Redes%20Sociais%203.png) 
+
