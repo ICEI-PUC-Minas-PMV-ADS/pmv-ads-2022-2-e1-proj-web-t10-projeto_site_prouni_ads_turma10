@@ -46,8 +46,7 @@ Os requisitos do projeto e suas funcionalidades são de caráter funcional e nã
 |RF-05|	O site deve possuir o campo de cadastro de usuário para que o mesmo possa interagir e receber avisos de atualizações.|	Média |
 |RF-06|	O site deve conter informações de contato do mantenedor.|	Baixa | 	
 |RF-07|	O site deve permitir a visualização dos comentários feitos por outros usuários.|	Média |
-|RF-08|	O site deve ter um sistema que, mediante informações fornecidas pelo usuário, indique quais as suas melhores opções e chances em relação ao programas em questão.| Média |	
-|RF-09|	O site deve permitir o compartilhamento em redes sociais.|	Baixa |
+|RF-08|	O site deve permitir o compartilhamento em redes sociais.|	Baixa |
 
 ### Requisitos não Funcionais
 
