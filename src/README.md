@@ -2,7 +2,9 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+Para acessar o site basta clicar no link abaixo:
+
+* https://acesso-ao-ensino-superior.netlify.app/ 
 
 ## Histórico de versões
 
