@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Cadastro</title>
+		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+		<script type="text/javascript" src="./js/scripts.js"></script>
+		<style>
+			body{
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			fieldset{
+				border: 3px solid dodgerblue;
+			}
+			legend{
+				border: 1px solid dodgerblue;
+				padding: 10px;
+				text-align: center;
+				background-color: dodgerblue;
+				border-radius: 8px;
+				color: white;
+
+			}
+		</style>
+</head>	
+		
+		<div class="box">
+			<form action="">
+				<fieldset>
+					<legend><b>Cadastre-se</b></legend>
+					<br>
+					<div class="InputBox">
+						<input type="text" name="nome" id="nome" class="InputUser" required>
+						<label for="nome" class="LabelInput">Nome Completo</label>
+					</div>
+					<br>
+					<div class="InputBox">
+						<input type="email" name="email" id="email" class="InputUser" required>
+						<label for="email" class="LabelInput">E-mail</label>
+					</div>
+					<br>
+					<div class="InputBox">
+						<input type="tel" name="telefone" id="telefone" class="InputUser" required>
+						<label for="telefone" class="LabelInput">Telefone</label>
+					</div>
+					<br>
+					<div class="InputBox">
+						
+						<label for="DataNasc" class="LabelInput">Data de nascimento</label>
+						<input type="date" name="DataNasc" id="DataNasc" required>
+					</div>
+					<br>
+					<p><b>Gênero:</b></p>
+					<br>
+					<label for="feminino" class="LabelInput">Feminino</label>
+					<input type="radio" id="feminino" name="genero" value="feminino" required>
+					<br>
+					<label for="masculino" class="LabelInput">Masculino</label>
+					<input type="radio" id="masculino" name="genero" value="masculino" required>
+					<br>
+					<label for="outros" class="LabelInput">Outros</label>
+					<input type="radio" id="outros" name="genero" value="outros" required>					
+					<br><br>
+					<div class="InputBox">
+						<input type="text" name="cidade" id="cidade" class="InputUser" required>
+						<label for="cidade" class="LabelInput">Cidade</label>
+					</div>
+					<br>
+					<div class="InputBox">
+						<input type="text" name="estado" id="estado" class="InputUser" required>
+						<label for="estado" class="LabelInput">Estado</label>
+					</div>
+					<br>
+					<div class="InputBox">
+						<input type="text" name="endereco" id="endereco" class="InputUser" required>
+						<label for="endereco" class="LabelInput">Endereço</label>
+					</div>
+					<br>
+					
+					<a href="index.html" >Cadastrar</a>
+					
+
+
+				</fieldset>
+				
+			</form>
+
+
+
+		</div>
+
+		<!--Rodapé-->
+			<div id="container-rodape" style="clear: both;">
+				<div id="rodape">
+					Contato: renan.galvao@sga.pucminas.br / &copy; Copyright 2022-2024 Ensino superior gratuito
+				</div>
+			</div>	
+
+	</body>
+
+	
+</html>
+

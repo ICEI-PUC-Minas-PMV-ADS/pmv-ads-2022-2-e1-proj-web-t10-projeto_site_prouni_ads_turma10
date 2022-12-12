@@ -1,0 +1,343 @@
+/* estrutura do site */
+* {
+	margin:0 ;
+	padding: 0;
+}
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #87ceeb;
+	height: 100vh;
+	width: 100vw;	
+}
+#container{
+	width: 75%;
+	margin: 0 auto;
+	padding-top: 25px;
+}
+#topo{
+	height: 150px;
+	padding-top: 1px;
+
+}
+.logo{
+	width: 100%;
+	height: 280px;
+	background: url(../imagens/logosite.png)no-repeat center;
+	text-indent: -4000px;
+}
+
+/*Barra de Navegação*/
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#topo ul {
+	font-size: 1em;
+	background: #1E90FF;
+	color: #fff;
+	padding: 5px;
+	border: 2px solid #000;
+	margin-top: 30px;
+	float: left;
+	display: block;
+}
+
+#topo ul li {
+	float: left;
+}
+
+#topo ul a {
+	font-size: 0.9em;	
+	display: block;
+	padding: 0.5em 1.5em;
+	line-height: 0,1em;
+	text-decoration: none;
+	color: #000000;
+	font-size: 1em;
+}
+#topo ul a:hover {
+	color: #69001d;
+}
+body.home #navegacao a#home,
+body.enem #navegacao a#enem,
+body.prouni #navegacao a#prouni,
+body.sisu #navegacao a#sisu, 
+body.eja #navegacao a#eja,
+body.vestibulares #navegacao a#vestibulares {
+	color: #fff;
+	background: #1E90FF;
+	cursor: pointer;	
+}
+
+/* Configuração colunas */
+#conteudo {
+	margin: top 80px;
+	background: 0312e9;
+}
+#primario {
+	width: 100%;
+	float: left;
+	margin: 10 0 20px 210px;
+	
+}
+#lateral{
+	margin-top: 380px;
+	width: 100%;
+	float: right;
+	margin: 10 0 20px -800px;
+}
+
+#container-rodape{
+	border: 2px solid #000;
+	background: #1E90FF;
+	padding: 10px;
+}
+
+/*Caixa*/
+.caixa{
+	background: #f3f3f3;
+	margin: 10px 0;
+	padding: 5px 0 5px 0;
+}
+h2{
+	font-size: 1em;
+	background: #1E90FF;
+	padding: 1%;
+	border: 2px solid #000;
+	text-align: left;	
+}
+.caixa-conteudo{
+	background: #fff;
+	padding: 5px;
+	margin-top: 5px;	
+}
+.submit{
+	margin-left: 45px;
+}
+/*Formatar menu lateral*/
+#lateral ul a{
+	font-size: 0.9em;
+	padding: 3px;
+	display: flex;
+	line-height: 30px;
+	color: #000;
+	text-decoration: none;
+	border: 1px solid #000;
+}
+#lateral ul a:hover {
+	color: #1E90FF;
+	background: #f9f9f9;	
+}
+/*Formatado formulários*/
+label {
+	display: block;
+	cursor: pointer;
+
+}
+input{
+	font-size: 0.9em;
+	background: white;
+	padding: 5px;
+	width: 125px;
+	text-align: justify;	
+}
+input.submit{
+	color: #fff;
+	background-color: #b10333;
+	padding: 5px;
+	width: 80px;
+	border: 2px solid #870529;
+	cursor: pointer;
+	border: 2px solid #000;
+	text-align: center;	
+}
+
+#rodape{
+	width: 750px;
+	margin: 0 auto;
+	color: #fff;
+
+}
+
+body{
+	margin: 0;
+	height: 100vh;
+	width: 100vw;
+
+}
+
+.search-box {
+	position: absolute;
+	float: none;
+	margin-top: -40px;
+	margin-left: 90px;
+	height: 40px;
+	padding: 10px;
+	background: #1E90FF;
+	display: flex;
+	border-radius: 40px;
+	transform: translate(-50%, -50%);
+	justify-content: space-between;
+	align-items: center;
+	border: 2px solid #000;
+}
+
+.search-text {
+	border: none;
+	background: none;
+	outline: none;
+	padding: 0;
+	color: #f0f5fb;
+	font-size: 18px;
+	line-height: 40px;
+	transition: .5s;
+	border-radius: 40px;
+}
+
+
+
+.search-box:hover > .search-text {
+	width: 120px;
+}
+
+.box {
+	position:top;
+	top: 50%;
+	left: 50%;
+	margin-top: 100px;
+	margin-left: 40%;
+	padding: 15px;
+	background-color: rgba(0, 0, 0, 1.0);
+	border-radius: 15px;
+	width: 20%;
+	color: white;
+}
+.InputBox {
+	text-align: left;
+	position: relative;
+}
+.InputUser{
+	background: none;
+	border: none;
+	border-bottom: 1px solid white;
+	outline: none;
+	color: white;
+	font-size: 15px;
+	width: 100%;
+	letter-spacing: 2px;
+}
+.LabelInput{	
+	top: 0px;
+	left: 0px;
+	pointer-events: none;
+	transition: .5s;
+	
+}
+.InputUser:focus ~ .LabelInput{
+	top: -20px;
+}
+#DataNasc{
+	border: none;
+	padding: 8px;
+	border-radius: 10px;
+	outline: none;
+}
+#submit{
+	border: none;
+	padding: 8px;
+	border-radius: 10px;
+	outline: none;
+	width: 1%;
+	padding: 5px;
+	color: white;
+	background: #1E90FF;
+
+}
+#senha{
+	margin-left: 11px;
+}
+
+#icons{
+	width: auto;
+	height: auto;	
+	top: 30%;	
+}
+#icons ul{
+	list-style: none;
+}
+#icons ul li{
+	display: block;	
+	transition: all 0.5s ease;
+}
+#icons ul li a{
+	display: block;
+	color: #fff;
+	text-decoration: none;
+}
+#icons ul li:nth-child(1){
+	background: #ff0000;
+}
+#icons ul li:nth-child(2){
+	background: cyan;
+}
+#icons ul li:nth-child(3){
+	background: #030379;
+}
+#icons ul li:nth-child(4){
+	background: #2F4F4F;
+}
+.container{
+	background: #fff;
+	padding: 5px;
+	margin-top: 5px;
+	border: 2px solid #000;
+}
+.caixa-duvidas{
+	text-align: left;
+	background: #fff;
+	padding: 5px;
+	margin-top: 5px;
+}
+h3{
+	font-size: 1em;
+	background: #1E90FF;
+	padding: 1%;
+	border: 2px solid #000;
+	text-align: left;
+}
+
+main{
+	padding:0%;
+	margin: 5%;
+	display: block;
+	min-height: 100vh;
+	min-width: 100vh;
+}
+.comment-section{
+	max-height: 25vh;
+	max-width: 90%;
+	background-color: #00BFFF;
+	overflow-y:scroll;
+	border: 2px solid #000;
+}
+input.submitcoment{
+	color: #fff;
+	background-color: #b10333;
+	padding: 5px;
+	width: 80px;
+	border: 2px solid #870529;
+	cursor: pointer;
+	border: 2px solid #000;
+	text-align: center;
+}
+
+
+
+	
+
+	
+
+
+
+
